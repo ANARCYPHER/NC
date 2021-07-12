@@ -1,6 +1,6 @@
 ![image](https://avatars.githubusercontent.com/u/76657701?s=200&v=4)
 
-# NimboCoin (NIMB)
+# NC (NC)
 
 ### Specs
 * Algorithm - Cryptonight Turtle (ASIC resistant)
